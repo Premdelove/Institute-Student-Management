@@ -1,0 +1,24 @@
+Institute-Student-Controller
+
+        To ADD Institute Student Details - both/addboth
+
+        To GET All Institute Student Details - both/getAll
+
+        To Update Institute By Id - both/updateInstitute/id
+
+        To Delete Institute By Id - both/
+
+
+
+Student-Controller
+
+        To ADD Student details - Student/addStudent
+
+        To GET All Student details - Student/getAllStudent
+
+        To UPDATE Student By Id - Student/updateStudent/id
+
+        To DELETE Student By Id - Student/deleteStudent/id
+
+
+
